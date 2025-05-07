@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drewlipps
 - 📱 I’m interested in tech!
 - 📫 drew@lipps.ai
-- 📽️ YouTube.com/@drewlipps
+- 📽️ https://YouTube.com/@drewlipps
 - 🦋 https://bsky.app/profile/lipps.ai
   
 <!---
